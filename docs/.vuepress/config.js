@@ -11,9 +11,7 @@ module.exports = {
         {
           title: 'Group 1',
           collapsable: false,
-          children: [
-            '/'
-          ]
+          children: [ '/' ]
         },
         {
           title: 'Group 2',
